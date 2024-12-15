@@ -1,0 +1,94 @@
+{
+    "productos": [
+      {
+        "nombre": "Pez Goldfish",
+        "precio": 50,
+        "categoria": "Peces",
+        "imagen": "./Media/Goldfish.png"
+      },
+      {
+        "nombre": "Pez Betta",
+        "precio": 70,
+        "categoria": "Peces",
+        "imagen": "./Media/Betta.png"
+      },
+      {
+        "nombre": "Pez Guppy",
+        "precio": 40,
+        "categoria": "Peces",
+        "imagen": "./Media/Guppy.png"
+      },
+      {
+        "nombre": "Pez Neon Tetra",
+        "precio": 30,
+        "categoria": "Peces",
+        "imagen": "./Media/Neon.png"
+      },
+      {
+        "nombre": "Pez Cíclido",
+        "precio": 90,
+        "categoria": "Peces",
+        "imagen": "./Media/Ciclido.png"
+      },
+      {
+        "nombre": "Planta Elodea",
+        "precio": 30,
+        "categoria": "Plantas",
+        "imagen": "./Media/Elodea.png"
+      },
+      {
+        "nombre": "Planta Anubias",
+        "precio": 45,
+        "categoria": "Plantas",
+        "imagen": "./Media/Anubias.png"
+      },
+      {
+        "nombre": "Planta Musgo de Java",
+        "precio": 25,
+        "categoria": "Plantas",
+        "imagen": "./Media/Java.png"
+      },
+      {
+        "nombre": "Planta Vallisneria",
+        "precio": 35,
+        "categoria": "Plantas",
+        "imagen": "./Media/valisneria.png"
+      },
+      {
+        "nombre": "Planta Helecho de Java",
+        "precio": 50,
+        "categoria": "Plantas",
+        "imagen": "./Media/Helecho de Java.png"
+      },
+      {
+        "nombre": "Filtro de Agua",
+        "precio": 100,
+        "categoria": "Otros",
+        "imagen": "./Media/Filtro.png"
+      },
+      {
+        "nombre": "Termostato",
+        "precio": 80,
+        "categoria": "Otros",
+        "imagen": "./Media/calefactor.png"
+      },
+      {
+        "nombre": "Kit de Limpieza",
+        "precio": 60,
+        "categoria": "Otros",
+        "imagen": "./Media/kit de limpieza.png"
+      },
+      {
+        "nombre": "Comida para Peces",
+        "precio": 25,
+        "categoria": "Otros",
+        "imagen": "./Media/Comida para Peces.png"
+      },
+      {
+        "nombre": "Red para Peces",
+        "precio": 15,
+        "categoria": "Otros",
+        "imagen": "./Media/Red para peces.png"
+      }
+    ]
+  }
