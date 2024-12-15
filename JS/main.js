@@ -9,7 +9,7 @@ let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
  */
 const fetchProductos = async () => {
     try {
-        const response = await fetch('../JSON/productos.json');
+        const response = await fetch('./JSON/productos.json');
         if (!response.ok) {
             throw new Error('No se pudo cargar el archivo JSON');
         }
